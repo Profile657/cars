@@ -1,0 +1,25 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="40" height="40" fill="url(#pattern0_40_2)"/>
+<rect width="40" height="40" fill="url(#pattern1_40_2)"/>
+<rect width="40" height="40" fill="url(#pattern2_40_2)"/>
+<rect width="40" height="40" fill="url(#pattern3_40_2)"/>
+<rect width="40" height="40" fill="url(#pattern4_40_2)"/>
+<defs>
+<pattern id="pattern0_40_2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_40_2" transform="scale(0.02)"/>
+</pattern>
+<pattern id="pattern1_40_2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_40_2" transform="scale(0.02)"/>
+</pattern>
+<pattern id="pattern2_40_2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_40_2" transform="scale(0.02)"/>
+</pattern>
+<pattern id="pattern3_40_2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_40_2" transform="scale(0.02)"/>
+</pattern>
+<pattern id="pattern4_40_2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_40_2" transform="scale(0.02)"/>
+</pattern>
+<image id="image0_40_2" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABHklEQVR4nO2WO04DQRBEJwEie0mBQ9n4GBi4JRgkQCT8rgHkD7VVWCvoWSMC7wT1pIm2qrUae2ZfKcaYfwEcABfADfCptQLOgf0Wu78AToBH6jwAxy11azvyPewJmAETrTnwomf3P3dorG4KcKnCM9Alz7ve0GUL3RTgVuHZQOZUmVUL3RTgQ+HJQGaqzHsL3ZQI/WFgV3mZUbopuvaC+UBmocx1C90U3dfoYGWH7hB4U+ashW5KXG26r4NXHbCp1qI37A7Ya6FbJT46vaEZMeyopW4V7dAy/o+6UWJdxc+6bUfG6hqzS7DGY43HGp9gjS/W+DXW+BrW+GKN34A13pjdgzUeazzW+ARrfLHGr7HG17DGF2v8BqzxxpiyhS/0e7AgfxXbSQAAAABJRU5ErkJggg=="/>
+</defs>
+</svg>
